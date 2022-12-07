@@ -1,2 +1,1 @@
-# amado
-amado
+![](amado.png)
